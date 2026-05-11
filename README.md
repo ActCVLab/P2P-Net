@@ -6,6 +6,8 @@ Paper: https://ieeexplore.ieee.org/document/10937752
 2.We devise two key components: HCEM and ATLDH. HCEM maintains high resolution throughout feature extraction, enriching deep feature maps with detailed target information. ATLDH predicts target locations by regressing a Gaussian heatmap, enhancing localization accuracy.
 
 3.Experiments on two public datasets, NUDT-SIRST [16] and IRSTD-1k [30], demonstrate the superiority of our approach over representative SOTA IRSTD methods. Additionally, we provide single-point annotation for existing public IRSTs datasets, supporting further advancements in IRSTD.
+## Structure
+
 ## Requirements
 Recommended environment:
 
