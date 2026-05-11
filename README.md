@@ -86,8 +86,9 @@ annotations/annotations.json is a COCO-style keypoint annotation file
 | IRSTD-1K      |  96.42  |  92.76 |  99.07  | 
 
 ## Training
+```
 python train.py
-
+```
 
 ## Citation
 If you use this code, please kindly cite our paper:
