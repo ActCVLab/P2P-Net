@@ -91,6 +91,8 @@ python train.py
 
 ## Citation
 If you use this code, please kindly cite our paper:
+```
+bibtex
 @ARTICLE{ni2025p2p,
   author={Ni, Rixiang and Wu, Jing and Qiu, Zhaobin and Chen, Liqiong and Luo, Changhai and Huang, Feng and Liu, Qiujiang and Wang, Binxing and Li, Yunxiang and Li, Youli},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
@@ -100,7 +102,7 @@ If you use this code, please kindly cite our paper:
   pages={1-19},
   publisher={IEEE}
 }
-
+```
 ## Contact
 If you have any questions, please contact:  
 Author: Zhaobing Qiu  
